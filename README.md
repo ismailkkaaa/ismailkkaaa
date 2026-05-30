@@ -1,94 +1,120 @@
-# 🎨 **ALBASITH C.A**  
-### *Modern aesthetic creator*
+# 🎨 ALBASITH C.A
+### *Designer • Developer • Digital Creator*
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=600&color=8A2BE2&center=true&vCenter=true&width=700&lines=Graphic+Designer+Portfolio;Modern+Aesthetic+Creator;Branding+%E2%80%A2+Mockups+%E2%80%A2+AI+Visuals)
-
-
----
-
-## 🌟 **Neon Signature Banner**
-![banner](https://img.shields.io/badge/ALBASITH%20C.A-Modern%20Aesthetic%20Creator-8A2BE2?style=for-the-badge&labelColor=000000&color=4D00FF)
+![typing svg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=600&color=8A2BE2&center=true&vCenter=true&width=800&lines=Graphic+Designer+%7C+Web+Developer;Flask+Developer+%7C+Digital+Creator;Branding+%E2%80%A2+Web+Apps+%E2%80%A2+AI+Visuals;Building+Creative+Digital+Experiences)
 
 ---
 
-## 🎨 **About Me**
-A graphic designer focused on **clean**, **aesthetic**, and **modern** visual design.  
-I work with neon-inspired palettes, minimal layouts, and polished AI-enhanced visuals.
+## 🌟 Neon Signature Banner
+
+![banner](https://img.shields.io/badge/ALBASITH%20C.A-Designer%20%E2%80%A2%20Developer%20%E2%80%A2%20Creator-8A2BE2?style=for-the-badge&labelColor=000000&color=4D00FF)
 
 ---
 
-## ⭐ **What I Do**
-- Logo Design (minimal + clean)  
-- Premium Graphic Design  
-- Branding Concepts  
-- Realistic Mockups  
-- AI Creative Image Work  
-- Neon Aesthetic Design  
+## 👨‍💻 About Me
+
+Hi, I'm **Albasith C A**, a creative professional from Kerala who combines **design and development** to build modern digital experiences.
+
+I specialize in **graphic design, video editing, photo editing, web development, UI/UX design, and digital product creation**.
+
+From social media branding and creative visuals to Flask-powered web applications and automation systems, I enjoy turning ideas into polished products that are both visually appealing and practical.
 
 ---
 
-## 🧰 **Tools & Skills**
+## ⭐ What I Do
+
+- 🎨 Graphic Design
+- 🎬 Video Editing
+- 📸 Photo Editing
+- 🌐 Web Development
+- 🎨 UI/UX Design
+- 🐍 Flask Applications
+- 🚀 Product Development
+- 🤖 Automation Solutions
+- 🥽 WebAR Experiences
+- 💡 Startup & Creative Projects
+
+---
+
+## 🧰 Tools & Skills
 
 | Category | Tools |
-|---------|-------|
-| **Design** | Photoshop, Canva, Figma |
-| **AI Tools** | Gemini, ChatGPT |
-| **Editing** | Color grading, composition, designing |
-| **Web** | HTML, CSS, JS |
+|-----------|-----------|
+| Design | Photoshop, Canva, Figma |
+| Development | Python, Flask, SQLite |
+| Frontend | HTML, CSS, JavaScript |
+| AI Tools | ChatGPT, Gemini |
+| Editing | Video Editing, Color Grading, Photo Retouching |
+| Workflow | Git, GitHub, VS Code |
 
 ---
 
-## 🎨 **Design Highlights**
+# 🚀 Featured Projects
 
-### 🔹 Aesthetic Composition  
-- Balanced layouts  
-- Minimal color choices  
-- Clean typography  
-
-### 🔹 Branding  
-- Identity-based logo systems  
-- Professional brand kits  
-- Neon accent styling  
-
-### 🔹 Realistic Mockups  
-- Frames  
-- Posters  
-- Product previews  
+## 💬 ChatDesk
+A local-network WhatsApp campaign CRM designed for businesses, schools, and tuition centres. Includes campaign management, contact organization, delivery monitoring, staff access control, and workflow safeguards.
 
 ---
 
-## 🚀 **Current Projects**
-
-### 🎨 **Poster Collection 2025**  
-Featuring:
-- Neon purple + blue aesthetic  
-- Clean layouts  
-- Modern mockup presentations  
-
-### 🔥 **Dreams Creation – Branding Project**
-Focused on:
-- Minimal logo system  
-- Elegant brand visuals  
-- Smooth color composition  
-
-### 🤖 **AI Prompt Packs (All AI)**  
-- Poster prompts  
-- Image prompts  
-- Logo prompts  
+## 🏋️ LiftLog
+A premium mobile-first gym workout tracker built using Flask and SQLite with a polished user experience, responsive design, and workout management system.
 
 ---
 
-## 🌈 **Theme Colors**
-- **Neon Purple:** `#8A2BE2`  
-- **Electric Blue:** `#00CFFF`  
-- **Midnight Black:** `#000000`  
-- **Soft Glow Pink:** `#FF63D8`  
-
-Use these for consistent design vibes 🎨
+## 📁 File Portal
+A secure role-based file management portal supporting student records, file uploads, search functionality, country-specific access control, and centralized administration.
 
 ---
 
-## ⚡ **GitHub Stats**
+## 🔒 Whisper Chat
+A privacy-focused real-time messaging application featuring modern UI, smooth communication workflows, and a clean user experience.
+
+---
+
+## 🥽 EchoFrame
+A browser-based WebAR experience powered by MindAR that delivers interactive augmented reality content through image recognition technology.
+
+---
+
+## 🛒 Dreams Creation
+A modern e-commerce website project focused on branding, product presentation, responsive layouts, and scalable online shopping experiences.
+
+---
+
+## 📥 Downly
+A lightweight media downloader built with Flask and yt-dlp that allows users to download videos and audio from YouTube and Instagram through a clean interface.
+
+---
+
+## 🎨 Design Highlights
+
+### Branding & Identity
+- Logo Design
+- Brand Systems
+- Social Media Branding
+- Visual Identity Design
+
+### Creative Content
+- Posters
+- Reels
+- Marketing Graphics
+- AI-Assisted Visuals
+
+### UI / UX
+- Mobile-First Interfaces
+- Modern Dashboards
+- Web Application Design
+- User Experience Optimization
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://ismailkkaaa.github.io/
+
+---
+
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ismailkkaaa&show_icons=true&theme=midnight-purple&border_radius=20)
 
@@ -96,19 +122,23 @@ Use these for consistent design vibes 🎨
 
 ---
 
-## 🔗 **Connect With Me**
+## 🔗 Connect With Me
 
-**📸 Instagram:**  
-https://www.instagram.com/ismail_.7x  
+📸 Instagram  
+https://www.instagram.com/ismail_.7x
 
-**🎮 Discord:**  
-https://discordapp.com/users/913055653562576987  
+💻 GitHub  
+https://github.com/ismailkkaaa
 
-**💻 GitHub:**  
-https://github.com/ismailkkaaa  
+🌐 Portfolio  
+https://ismailkkaaa.github.io/
+
+---
 
 ![views](https://komarev.com/ghpvc/?username=ismailkkaaa&color=8A2BE2)
 
 ---
 
-## ✨ *Clean ideas. Premium visuals. Aesthetic outcomes.*
+## ✨
+
+### *Designing visuals. Building products. Creating experiences.*
